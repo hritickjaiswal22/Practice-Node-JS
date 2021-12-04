@@ -1,0 +1,3 @@
+Result is
+This is first file.
+This is second file.
